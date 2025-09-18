@@ -73,7 +73,7 @@ Place all files in the `/models` directory.
 ### 4. Register Students
 Create a `student_db` folder.  
 Add student face images in format: `[student_name].jpg`  
-Example: `Abhishek Mohite.jpg`  
+Example: `Nishant Khanderao.jpg`  
 
 ✅ High-quality frontal face photos  
 ✅ Single person per image  
