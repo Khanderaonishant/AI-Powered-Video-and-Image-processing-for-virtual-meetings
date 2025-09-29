@@ -36,7 +36,7 @@ A full-stack computer vision solution that monitors exam integrity using real-ti
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/abhishekmohite55/AI-Powered-Video-And-Image-Processing
+git clone https://github.com/Khanderaonishant/AI-Powered-Video-and-Image-processing-for-virtual-meetings
 cd AI-Powered-Video-And-Image-Processing
 ```
 
